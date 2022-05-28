@@ -14,5 +14,8 @@
 <p align="center">
 This organization is meant to Code, Learn To Code and teach how to code.
 The repositories must have a github page. You can write articles, blogs or anything related to code, technology, programming and songs.
-Anyone can contribute in this. It does'nt matter whether you are Learning to Code, you are professional programmer or etc. 
+Anyone can contribute in this. It does'nt matter whether you are Learning to Code, you are professional programmer or etc. <br><br>
+  <b><i>The aim is to read less, know more in less time.</i></b>
+  <br>
+  😎😎😎
 </p>
