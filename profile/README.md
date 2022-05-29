@@ -18,4 +18,6 @@ Anyone can contribute in this. It does'nt matter whether you are Learning to Cod
   <b><i>The aim is to read less, know more in less time.</i></b>
   <br>
   😎😎😎
+  <br>
+  <i>Get started <a href= "https://just-codex.github.io/Articles/">here</a></i>
 </p>
